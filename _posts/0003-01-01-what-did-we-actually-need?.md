@@ -1,5 +1,5 @@
 ---
-icon: question
+icon: search
 ---
 
 * Users

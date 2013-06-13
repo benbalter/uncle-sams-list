@@ -1,4 +1,5 @@
 ---
+icon: group
 ---
 
 * [Count Shortcode](http://wordpress.org/plugins/count-shortcode/)

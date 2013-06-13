@@ -1,4 +1,5 @@
 ---
+icon: dashboard
 ---
 
 * Identified more than 100 opportunities to eliminate redundant investments
