@@ -1,4 +1,5 @@
 ---
+title: Vanilla WordPress
 ---
 
 * Posts and Pages (no custom post types)
