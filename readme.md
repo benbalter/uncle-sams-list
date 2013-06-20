@@ -1,5 +1,7 @@
 # Uncle Sam's List
 
+http://ben.balter.con/uncle-sams-list 
+
 ## Requirements
 
 * Jekyll (ruby)
