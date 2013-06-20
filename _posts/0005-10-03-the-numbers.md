@@ -7,3 +7,6 @@ icon: dashboard
 * To date, netted $300 million in actual savings
 * 40,000 lines of code
 * Less than 1/2 of one percent coded in house
+
+Source: [fedscoop.com/uncle-sams-list-ombs-next-generation-for-shared-services](http://fedscoop.com/uncle-sams-list-ombs-next-generation-for-shared-services/)
+{.small}
