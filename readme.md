@@ -1,6 +1,4 @@
-# Open Sourcing Government
-
-*Applying the open-collaboration philosophy to the process of governing*
+# Uncle Sam's List
 
 ## Requirements
 
